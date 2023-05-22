@@ -1,3 +1,2 @@
 selenium
 random_word
-concurrent.futures
